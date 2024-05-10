@@ -7,4 +7,7 @@ add_executable(7 main.cpp
         DoubleLinkedlist.h
         SinglyLinkedlist.h
         DoubleNode.h
-        SingleNode.h)
+        SingleNode.h
+        InputRestrictedQueue.h
+        Queue.h
+        Stack.h)
